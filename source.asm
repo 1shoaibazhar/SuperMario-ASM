@@ -1,4 +1,4 @@
-;----SUPER MARIO GAME  -- COAL LAB PROJECT--------;
+;----SUPER MARIO GAME  -- COAL PROJECT--------;
 ;Creator: Muhammad Shoaib Azhar
 
 .model small
